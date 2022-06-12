@@ -43,6 +43,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "witsec-white-label": true,
+    "publishChangesOnly": true,
     "uniqCompNum": 2,
     "versionPublish": "5.6.8"
   },
