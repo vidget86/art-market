@@ -714,8 +714,8 @@ a {
   position: absolute;
   background-repeat: repeat;
   z-index: 0;
-  -webkit-animation-duration: 12s !important;
-  animation-duration: 12s;
+  -webkit-animation-duration: 4s !important;
+  animation-duration: 4s;
   background-image: url("../../../assets/images/kqq5n-f7zmw-2000x982.jpeg");
   -webkit-animation: scroll-wrapper linear infinite;
   -moz-animation: scroll-wrapper linear infinite;
